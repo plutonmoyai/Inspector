@@ -74,6 +74,12 @@ Run the following command to scan a project:
 python src/cli.py /path/to/your/project --language en
 ```
 
+If you want to get project output in any language, just write this:
+
+```bash
+python src/cli.py /path/to/your/project
+```
+
 This will generate a report in the specified project's directory.
 
 ### Contact
@@ -143,6 +149,12 @@ Bir projeyi taramak için aşağıdaki komutu çalıştırın:
 
 ```bash
 python src/cli.py /path/to/your/project --language tr
+```
+
+Herhangi bir dilde proje çıktısı almak istiyorsanız sadece bunu yazın:
+
+```bash
+python src/cli.py /path/to/your/project
 ```
 
 Bu, belirtilen projenin dizininde bir rapor oluşturacaktır.
