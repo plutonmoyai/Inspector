@@ -84,7 +84,7 @@ This will generate a report in the specified project's directory.
 
 ### Contact
 
-x0pluton@proton.me
+xddmeowon@proton.me
 
 ## Türkçe Açıklama
 
@@ -161,4 +161,4 @@ Bu, belirtilen projenin dizininde bir rapor oluşturacaktır.
 
 ### İletişim
 
-x0pluton@proton.me
+xddmeowon@proton.me
